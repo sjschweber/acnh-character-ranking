@@ -19,5 +19,13 @@ export const data = [
     catchphrase: "snacky",
     ranking: "C",
     type: "Aligator"
+  },
+  {
+    name: "Lucky",
+    personality: "Normal",
+    ranking: "A",
+    type: "Dog",
+    image: "./media/lucky.png"
+
   }
 ]
