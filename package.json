@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://{sjschweber}.github.io/{acnh-character-ranking}",
+  "homepage": "https://sjschweber.github.io/acnh-character-ranking",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.1",
